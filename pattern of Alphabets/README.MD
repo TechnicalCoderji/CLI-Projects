@@ -12,3 +12,5 @@ This script prints patterns of alphabets from A to M using a given symbol.
 
 **Usage:**
 - Run the script and input your desired symbol.
+
+**Output:** 
