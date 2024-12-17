@@ -15,3 +15,15 @@ This script prints patterns of alphabets from A to M using a given symbol.
 
 **Output:** 
 ![alt text](https://raw.githubusercontent.com/TechnicalCoderji/CLI-Projects/refs/heads/main/pattern%20of%20Alphabets/output%20of%20AtoM.png)
+
+### 2. N to Z.py
+This script prints patterns of alphabets from N to Z using a given symbol.
+
+**Description:**
+- Enter a symbol, and the script will print each letter from N to Z in a beautiful pattern.
+
+**Usage:**
+- Run the script and input your desired symbol.
+
+**Output:** 
+![alt text](https://raw.githubusercontent.com/TechnicalCoderji/CLI-Projects/refs/heads/main/pattern%20of%20Alphabets/output%20of%20NtoZ.png)

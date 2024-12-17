@@ -1,6 +1,6 @@
 #dipparmar
 list2 = []
-symbol = "#"
+symbol = input("Enter Any Symbol: ")
 #AtoZ
 #N
 print_N = [[" " for i in range(5)] for j in range(7)]
