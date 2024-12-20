@@ -27,3 +27,15 @@ This script prints patterns of alphabets from N to Z using a given symbol.
 
 **Output:** 
 ![alt text](https://raw.githubusercontent.com/TechnicalCoderji/CLI-Projects/refs/heads/main/pattern%20of%20Alphabets/output%20of%20NtoZ.png)
+
+### 3. patternname.py
+This script prints patterns of alphabets from usert input name using a given symbol.
+
+**Description:**
+- Enter a symbol, and Enter name the script will print each letter from ypur name in a beautiful pattern.
+
+**Usage:**
+- Run the script and input your desired symbol and name.
+
+**Output:** 
+![alt text](https://raw.githubusercontent.com/TechnicalCoderji/CLI-Projects/refs/heads/main/pattern%20of%20Alphabets/output%20of%20Pattern%20name.png)
