@@ -12,3 +12,6 @@ code for printing (A TO Z) and (0 TO 9) in user given symbols pattern
 
 ### 3. COIN and DICE GAME 🎮🎲
 code for GAME🎮 to toss up numbers of COIN🪙 and DISE🎲.
+
+### 4. LOVE CALCULATOR 💘🧮
+Calculator love persentages of two things by name.
