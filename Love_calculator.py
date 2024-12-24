@@ -39,10 +39,10 @@ while game_loop:
 	name = []
 	num = []
 	love_per = 0
-	boy_name = input("enter boy name:")
+	boy_name = input("enter first name:")
 	if boy_name.lower() == "exit":
 		break
-	girl_name = input("enter girl name:")
+	girl_name = input("enter second name:")
 	if girl_name.lower() == "exit":
 		break
 	print(boy_name,"❤️🩷🧡💛💚💙",girl_name)
