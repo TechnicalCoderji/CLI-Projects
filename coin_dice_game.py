@@ -1,6 +1,11 @@
 import random
 
 def coinrepeat(toss):
+	"""For Printing COINS On Screen
+
+	Args:
+		toss ( int ): HEAD or TAIL
+	"""	
 	print("  #####")
 	print(" #     #")
 	print("#       #")
