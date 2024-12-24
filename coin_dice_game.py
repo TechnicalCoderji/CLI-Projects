@@ -15,6 +15,11 @@ def coinrepeat(toss):
 	print("  #####")
 
 def coin(num):
+	"""For Manage How Many Coin Fliped
+
+	Args:
+		num (int): Number of Coin to Flip
+	"""	
 	head_count = 0
 	tail_count = 0
 	for _ in range(1,num+1):
