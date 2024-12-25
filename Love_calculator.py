@@ -2,13 +2,22 @@
 print("welcome to dipparamr love calculater.")
 
 #dipparmar
-def cheak_love(name,seach):
+def cheak_love(name,search):
+	"""Check FOR Character count in names
+
+	Args:
+		name (string): name of person
+		search (string): Char for search
+
+	Returns:
+		int: number of chr apper in name
+	"""	
 	count = 0
 	for i in name:
-		if i == seach:
+		if i == search:
 			count += 1
 	for i in range(count):
-		name.remove(seach)
+		name.remove(search)
 	return count
 
 #dipparmar
