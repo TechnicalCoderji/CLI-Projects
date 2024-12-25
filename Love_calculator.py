@@ -22,6 +22,14 @@ def cheak_love(name,search):
 
 #dipparmar
 def love_num(list):
+	"""return love num
+
+	Args:
+		list (list): list of numbers of love calculator
+
+	Returns:
+		list: return list of love sum
+	"""	
 	sum = []
 	love_sum = []
 	lenth = len(list)
