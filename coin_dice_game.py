@@ -35,6 +35,11 @@ def coin(num):
 	print("TOTAL TAILS :",tail_count)
 
 def dicerepeat(toss):
+	"""for printing Dice Symbol
+
+	Args:
+		toss (string): between 1 to 6
+	"""	
 	if(toss==1):
 		print("##############")
 		print("#            #")
@@ -85,6 +90,11 @@ def dicerepeat(toss):
 		print("##############")
 
 def dice(num):
+	"""For Dice input management
+
+	Args:
+		num (int): number of dices
+	"""	
 	count = {1:0,2:0,3:0,4:0,5:0,6:0}
 	dice=[1,2,3,4,5,6]
 	for _ in range(1,num+1):
@@ -96,6 +106,8 @@ def dice(num):
 		print(f"TOATAL {i} is: {count[i]}")
 
 def game():
+	"""main game runner function
+	"""	
 	print("welcome to dip parmar's dice and coin game.")
 	print("rules:(1)exit game enter 'exit' in any place.")
 	print("      (2)restart game enter 'restart' in any place.")
