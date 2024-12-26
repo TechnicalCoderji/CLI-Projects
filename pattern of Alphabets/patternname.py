@@ -341,12 +341,13 @@ def pattern():
     return list2
 
 
-symbol = input("enter your symbol for print:")
-name = input("enter you want to print:")
-name = name.upper()
-list2 = []
-list3 = pattern()
+symbol = input("enter your symbol for print:") # for input symbol from user
+name = input("enter you want to print:") # for input string to print from user
+name = name.upper() # convert string to upper case
+list2 = [] # make empty list 
+list3 = pattern() # call pattern function
 
+# neted loops to print name in horizontal line
 for i in range(7):
     for j in range(len(list3)):
         for k in range(5):
