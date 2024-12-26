@@ -1,5 +1,10 @@
 #dipparmar
 def pattern():
+    """for alphabet pattern printing
+
+    Returns:
+        list: collection of alphabet pattrn od symbol
+    """    
     for i in range(len(name)):
         #A
         if name[i] == "A":
